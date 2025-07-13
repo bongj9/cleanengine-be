@@ -39,8 +39,14 @@
 
  Invest Future(<strong>IF</strong>)는 실제 시장의 추세를 따라가고, 사용자의 투자 행동이 차트에 반영되는 모의투자 서비스입니다.
 
-
+## R & R
 <br/>
+<img width="1138" height="462" alt="스크린샷 2025-07-13 오후 8 33 20" src="https://github.com/user-attachments/assets/2f5c44f7-9eed-4d5d-bcdd-b9c9916a2417" />
+<br/>
+
+## ERD
+<br/>
+<img width="1330" height="772" alt="CleanEngine" src="https://github.com/user-attachments/assets/ad85dbfe-0b30-488d-92d6-fff917c747f6" />
 <br/>
 
 
@@ -84,11 +90,7 @@ Invest Future(<strong>IF</strong>)는 사용자의 투자 행동으로 서비스
 </blockquote>
 </details>
 
+## 최종 구현 [6.24]
 
+![if-demo1-ezgif com-resize](https://github.com/user-attachments/assets/2b2bfd45-0632-4849-81e9-e80328209206)
 
-## 1차 구현 [5.2 ~ 5.15]
-
-코인 한 개(트럼프 코인)을 매수 할 수 있습니다.
-사용자의 주문에 따라 그래프차트와 호가창, 실시간 체결창에 반영됩니다.
-
-https://github.com/user-attachments/assets/779b77f1-e778-4a53-b37f-d79a2dc187e8
